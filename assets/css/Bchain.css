@@ -1,0 +1,17 @@
+th {
+  text-align:inherit;
+}
+
+.table-bordered td, .table-bordered th {
+  border:1px solid #dee2e6;
+}
+
+.table thead th {
+  vertical-align:bottom;
+  border-bottom:2px solid #dee2e6;
+}
+
+.table-bordered thead td, .table-bordered thead th {
+  border-bottom-width:2px;
+}
+

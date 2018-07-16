@@ -1,0 +1,10 @@
+
+var village1= { "name":"Bandara" ,"state":"Maharashtra" }
+
+
+var village2={ "name":"tera" ,"state":"Gujarat"}
+
+var village3={ "name":"jinda" ,"state":"Haryana"}
+
+var village4={ "name":"Sangli,"state":"Maharashtra" }
+var village5={ "name":"Satara" ,"state":"Maharashtra" }
